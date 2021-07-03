@@ -2,12 +2,12 @@
 
 ## Table of contents
  1. [Introduction](#1introduction)
- 2. [Changes to Privacy Policy](#2changes-to-this-privacy-policy)
+ 2. [Changes to Privacy Policy](#2-changes-to-this-privacy-policy)
  3. [What information we collect](#3what-information-we-collect)
- 4. [Children’s use of our apps](#4childrens-use-of-the-platforms)
- 5. [Links](#5links)
- 6. [3rd party sites ](#6third-party-websites-and-services)
- 7. [Contact details](#7contact-us)
+ 4. [Children’s use of our apps](#4-childrens-use-of-the-platforms)
+ 5. [Links](#5-links)
+ 6. [3rd party sites ](#6-third-party-websites-and-services)
+ 7. [Contact details](#7-contact-us)
 
   
 
