@@ -1,13 +1,13 @@
 # SteveyMcGuy Privacy Policy
 
 ## Table of contents
- 1. [Introduction](#introduction)
- 2. [Changes to Privacy Policy](#changes-to-this-privacy-policy)
- 3. [What information we collect](#what-information-we-collect)
- 4. [Children’s use of our apps](#childrens-use-of-the-platforms)
- 5. [Links](#links)
- 6. [3rd party sites ](#Third-party-websites-and-services)
- 7. [Contact details](#contact-us)
+ 1. [Introduction](#1introduction)
+ 2. [Changes to Privacy Policy](#2changes-to-this-privacy-policy)
+ 3. [What information we collect](#3what-information-we-collect)
+ 4. [Children’s use of our apps](#4childrens-use-of-the-platforms)
+ 5. [Links](#5links)
+ 6. [3rd party sites ](#6third-party-websites-and-services)
+ 7. [Contact details](#7contact-us)
 
   
 
