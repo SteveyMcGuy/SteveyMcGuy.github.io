@@ -182,6 +182,13 @@ p a {
 	display: block;
 	font-size: 12px;
 }
+.gameicon {
+	max-height: 128px;
+	max-width: 128px;
+}
+.gamelink {
+	text-decoration: none;
+}
 .more {
 	background-color: #727272;
 	color: #fff;
